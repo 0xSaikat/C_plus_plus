@@ -1,3 +1,5 @@
+//This code creat by fb.com/0xSaikat......
+
 #include<iostream>
 using namespace std;
 
